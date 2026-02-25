@@ -1,0 +1,49 @@
+# 📅 Agenda Pro - Anti-Procrastinação
+
+App de produtividade para combater a procrastinação com gamificação.
+
+## ✅ Features Implementadas
+
+- 📆 Calendário interativo
+- 🔥 Sistema de streaks (sequências)
+- ⏱️ Timer Pomodoro (25 min)
+- ✅ Micro-tarefas (dividir em passos)
+- 🎯 Recompensas (3 tarefas = lazer)
+- 📊 Gráfico de padrões de produtividade
+- 🔔 Notificações inteligentes
+- 🤝 Accountability buddy
+
+## 🚀 Status do Projeto
+
+- [x] Código base HTML/CSS/JS
+- [x] Conversão para React Native
+- [x] Build APK via EAS (em andamento)
+- [ ] Publicação Play Store
+- [ ] Monetização (Freemium)
+
+## 🛠️ Tecnologias
+
+- React Native
+- Expo
+- AsyncStorage (dados locais)
+- EAS Build
+
+## 📱 Próximos Passos
+
+1. Receber APK do build
+2. Testar em dispositivo Android
+3. Criar ícone e splash screen
+4. Publicar na Play Store ($25)
+5. Implementar monetização
+
+## 💡 Ideias Futuras
+
+- [ ] Integração Google Calendar
+- [ ] Widget Android/iOS
+- [ ] Modo foco (bloquear apps)
+- [ ] Versão iOS
+- [ ] Backup na nuvem
+
+---
+
+**Desenvolvido por:** Julio Filho
